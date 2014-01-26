@@ -1,0 +1,15 @@
+{
+	"private": true,
+	"name": "inkie",
+	"version": "0.0.1",
+	"description": "try to determine amount of ink used on scanned documents with handwriting on them",
+	"dependencies": {
+		"colors": ">= 0.6.2",
+		"findit": ">= 1.1.0",
+		"pngjs": ">= 0.4.0",
+		"async": ">= 0.2.9"
+	},
+	"engines": {
+		"node": "0.10.21"
+	}
+}
