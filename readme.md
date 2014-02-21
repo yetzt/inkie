@@ -39,4 +39,4 @@ which writes its findings to `data/doc-inkness.json` and `data/page-inkness.json
 
 ## License
 
-Inkie is [Pulbic Domain](http://unlicense.org/UNLICENSE)
+Inkie is [Public Domain](http://unlicense.org/UNLICENSE)
